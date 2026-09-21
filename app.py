@@ -8,11 +8,11 @@ from tensorflow.keras.models import load_model
 # FILE PATHS
 # =========================================================
 
-MODEL_PATH = r"C:\Users\Aditya\models\Exercise_Calorie_Prediction_System\ann_model.keras"
+MODEL_PATH = "ann_model.keras"
 
-SCALER_PATH = r"C:\Users\Aditya\models\Exercise_Calorie_Prediction_System\scaler.pkl"
+SCALER_PATH = "scaler.pkl"
 
-FEATURE_PATH = r"C:\Users\Aditya\models\Exercise_Calorie_Prediction_System\feature_columns.pkl"
+FEATURE_PATH = "feature_columns.pkl"
 
 
 # =========================================================
